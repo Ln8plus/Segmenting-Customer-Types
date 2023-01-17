@@ -1,0 +1,5 @@
+# CSV Files
+*.csv
+
+# ipynb checkpoints
+.ipynb_checkpoints/
